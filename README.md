@@ -12,9 +12,9 @@ After Canada placed a 25% surtax on Chinese steel in October 2024, China's share
 
 **[Did Bitcoin and gold protect investors during the 2026 Strait of Hormuz crisis?](https://github.com/betterandy24/bitcoin-gold-safe-haven)** · Python
 
-Bitcoin behaved like a risky investment, moving with the stock market rather than against it. More surprisingly, gold stopped moving independently of the stock market: in most market shocks since 2019 it did not follow stocks, but in 2026 it rose and fell together with them.
+Over 2019–2025, Bitcoin usually fell along with US stocks on bad days for the market, which fits the view that it behaves more like a risky investment than a safe haven. More surprisingly, during the 2026 conflict gold moved much more closely with US stocks than in any of six earlier market shocks since 2019, although there were too few sharp market falls to judge whether it still protects investors in a crash..
 
-*Methods: event study, factor regressions, comparison across seven market shocks since 2019*
+*Methods: regression on stock-market stress days (Baur–Lucey), comparison across seven market shocks since 2019, event study*
 
 ### Tools
 
@@ -22,10 +22,6 @@ Bitcoin behaved like a risky investment, moving with the stock market rather tha
 - **Python:** pandas, NumPy, statsmodels, matplotlib, Jupyter
 - **SQL**
 - **Methods:** regression analysis, causal inference (difference-in-differences, event studies), survey sampling, bootstrap
-
-### Relevant coursework
-
-Methods of Data Analysis I (STA302) · Surveys, Sampling and Observational Data (STA304) · International Trade Theory (ECO364) · Introduction to Computer Programming (CSC108)
 
 ### Contact
 
