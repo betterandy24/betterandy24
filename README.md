@@ -6,7 +6,7 @@ I'm a fourth-year student at the **University of Toronto**, majoring in Economic
 
 **[Did Canada's 2024 tariff on Chinese steel shift where Canada buys its steel?](https://github.com/betterandy24/canada-steel-surtax)** · R
 
-After Canada placed a 25% surtax on Chinese steel in October 2024, China's share of Canada's steel imports fell from about 6% to under 4%, mainly in the products the surtax covered. Japan was the one supplier that clearly gained. With only four months before the 2025 US–Canada trade dispute, the estimated effect of about 2 percentage points is suggestive rather than conclusive, and the strictest test cannot rule out chance.
+After Canada placed a 25% surtax on Chinese steel in October 2024, China's share of Canada's steel imports fell from about 6% to under 4%, mainly in the products the surtax covered. Japan was the most likely gainer. With only four months before the 2025 US–Canada trade dispute, the estimated effect of about 2 percentage points is suggestive rather than conclusive: its statistical significance depends on choices in the calculation, and a product-by-product comparison cannot rule out chance.
 
 *Methods: difference-in-differences with product-level panel data and clustered standard errors, event study, Newey-West and block-bootstrap inference*
 
