@@ -12,7 +12,7 @@ After Canada placed a 25% surtax on Chinese steel in October 2024, China's share
 
 **[Did Bitcoin and gold protect investors during the 2026 Strait of Hormuz crisis?](https://github.com/betterandy24/bitcoin-gold-safe-haven)** · Python
 
-Bitcoin behaved like a risky investment, moving with the stock market rather than against it. More surprisingly, gold also failed as a safe haven this time: in most market shocks since 2019 it moved independently of stocks, but in 2026 it rose and fell together with them.
+Bitcoin behaved like a risky investment, moving with the stock market rather than against it. More surprisingly, gold stopped moving independently of the stock market: in most market shocks since 2019 it did not follow stocks, but in 2026 it rose and fell together with them.
 
 *Methods: event study, factor regressions, comparison across seven market shocks since 2019*
 
