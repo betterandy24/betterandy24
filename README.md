@@ -6,22 +6,21 @@ I'm a fourth-year student at the **University of Toronto**, majoring in Economic
 
 **[Did Canada's 2024 tariff on Chinese steel shift where Canada buys its steel?](https://github.com/betterandy24/canada-steel-surtax)** · R
 
-After Canada placed a 25% surtax on Chinese steel in October 2024, China's share of Canada's steel imports fell from about 6% to under 4%. Comparing steel products that were and were not covered by the tariff, the drop happened mainly in the covered products, but the 2025 US–Canada trade dispute makes the exact size of the effect hard to pin down.
+After Canada placed a 25% surtax on Chinese steel in October 2024, China's share of Canada's steel imports fell from about 6% to under 4%, mainly in the products the surtax covered. Japan was the one supplier that clearly gained. With only four months before the 2025 US–Canada trade dispute, the estimated effect of about 2 percentage points is suggestive rather than conclusive, and the strictest test cannot rule out chance.
 
-*Methods: difference-in-differences, regression with seasonal controls, bootstrap confidence intervals*
+*Methods: difference-in-differences with product-level panel data and clustered standard errors, event study, Newey-West and block-bootstrap inference*
 
 **[Did Bitcoin and gold protect investors during the 2026 Strait of Hormuz crisis?](https://github.com/betterandy24/bitcoin-gold-safe-haven)** · Python
 
-Over 2019–2025, Bitcoin usually fell along with US stocks on bad days for the market, which fits the view that it behaves more like a risky investment than a safe haven. More surprisingly, during the 2026 conflict gold moved much more closely with US stocks than in any of six earlier market shocks since 2019, although there were too few sharp market falls to judge whether it still protects investors in a crash.
+Over 2019–2025, Bitcoin usually fell along with US stocks on bad days for the market, behaving more like a risky investment than a safe haven. More surprisingly, during the 2026 conflict gold moved about as much as US stocks, closer than in any of six earlier market shocks since 2019, although this link had already started rising a few months before the war. There were too few sharp market falls to judge whether gold still protects investors in a crash.
 
-*Methods: regression on stock-market stress days (Baur–Lucey), comparison across seven market shocks since 2019, event study*
+*Methods: Baur–Lucey stress-day regressions, factor regressions with real interest rates, rolling betas, event study with timing-corrected Bitcoin prices*
 
 ### Tools
 
 - **R:** tidyverse, ggplot2, R Markdown
 - **Python:** pandas, NumPy, statsmodels, matplotlib, Jupyter
-- **SQL**
-- **Methods:** regression analysis, causal inference (difference-in-differences, event studies), survey sampling, bootstrap
+- **Methods:** regression analysis, panel data, causal inference (difference-in-differences, event studies), survey sampling, bootstrap
 
 ### Contact
 
