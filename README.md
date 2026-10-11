@@ -19,10 +19,6 @@ Bitcoin behaved like a risky investment, moving with the stock market rather tha
 - **SQL**
 - **Methods:** regression analysis, causal inference (difference-in-differences, event studies), survey sampling, bootstrap
 
-### Relevant coursework
-
-Methods of Data Analysis I (STA302) · Surveys, Sampling and Observational Data (STA304) · International Trade Theory (ECO364) · Introduction to Computer Programming (CSC108)
-
 ### Contact
 
 📧 dionsium.zheng@mail.utoronto.ca
