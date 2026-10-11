@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Xiang Zheng 👋
 
-<!--
-**betterandy24/betterandy24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year student at the University of Toronto, majoring in Economics with minors in Statistics and Mathematics. I'm interested in using data to analyse practical questions about markets and policy, and in explaining the analysis clearly to people who don't work with data every day.
 
-Here are some ideas to get you started:
+Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Did Canada's 2024 tariff on Chinese steel shift where Canada buys its steel? · R After Canada placed a 25% surtax on Chinese steel in October 2024, China's share of Canada's steel imports fell from about 6% to under 4%. Comparing steel products that were and were not covered by the tariff, the drop happened mainly in the covered products, but the 2025 US–Canada trade dispute makes the exact size of the effect hard to pin down. Methods: difference-in-differences, regression with seasonal controls, bootstrap confidence intervals
+
+Did Bitcoin and gold protect investors during the 2026 Strait of Hormuz crisis? · Python Bitcoin behaved like a risky investment, moving with the stock market rather than against it. More surprisingly, gold also failed as a safe haven this time: in most market shocks since 2019 it moved independently of stocks, but in 2026 it rose and fell together with them. Methods: event study, factor regressions, comparison across seven market shocks since 2019
+
+Tools
+R: tidyverse, ggplot2, R Markdown
+Python: pandas, NumPy, statsmodels, matplotlib, Jupyter
+SQL
+Methods: regression analysis, causal inference (difference-in-differences, event studies), survey sampling, bootstrap
+Relevant coursework
