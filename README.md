@@ -12,8 +12,13 @@ Gold's beta to the S&P 500 rose from 0.08 (2019–2025) to about 1.0 during the 
 China's import share fell by about 2 percentage points more for targeted products than for untargeted ones, and Japan was the most likely gainer. The evidence is suggestive rather than conclusive: only four months separate the surtax from the 2025 US–Canada trade dispute.
 `difference-in-differences` `product-level panel` `event study` `clustered & Newey-West SEs`
 
+**[Where does Toronto's Bike Share come under strain? 6.8 million trips in SQL](https://github.com/betterandy24/toronto-bike-share-sql)** · SQL
+On a typical weekday morning one Financial District station receives about 185 bikes but sends out only 3, and six of the ten busiest commute routes end there. The busiest 10% of stations carry 39% of all trips.
+`DuckDB` `CTEs` `window functions` `data cleaning` `rebalancing analysis`
+
 ### Tools
 
+- **SQL:** DuckDB (CTEs, window functions, joins, aggregation)
 - **R:** tidyverse, ggplot2, R Markdown
 - **Python:** pandas, NumPy, statsmodels, matplotlib, Jupyter
 - **Methods:** regression, panel data, causal inference (difference-in-differences, event studies), survey sampling, bootstrap
