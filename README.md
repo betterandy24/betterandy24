@@ -5,7 +5,7 @@ Fourth-year **Economics** student at the **University of Toronto** (minors in St
 ### Projects
 
 **[Toronto Bike Share: from 6.8 million trips to a morning rebalancing plan](https://github.com/betterandy24/toronto-bike-share-sql)** · SQL, Python
-SQL analysis of where the system comes under strain, LightGBM demand forecasts, and an integer programme that plans which stations trucks should empty and fill before 7 a.m. In a replay of summer 2026, moving 500 bikes cuts riders meeting an empty or full station by about 39%; most of what remains sits at four Financial District stations that no truck plan can fix.
+SQL analysis of where the system comes under strain, LightGBM demand forecasts, and an integer programme that plans which stations trucks should empty and fill before 7 a.m. In a replay of summer 2026, moving 500 bikes cuts riders meeting an empty or full station by about 39%; most of what remains is at four Financial District stations where bikes have to be cleared during the rush itself.
 `DuckDB` `window functions` `LightGBM` `forecast evaluation` `integer programming (PuLP)` `simulation`
 
 **[Did Canada's 2024 surtax on Chinese steel shift where Canada buys its steel?](https://github.com/betterandy24/canada-steel-surtax)** · R
