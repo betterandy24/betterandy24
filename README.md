@@ -13,7 +13,7 @@ China's import share fell by about 2 percentage points more for targeted product
 `difference-in-differences` `product-level panel` `event study` `clustered & Newey-West SEs`
 
 **[Where does Toronto's Bike Share come under strain? 6.8 million trips in SQL](https://github.com/betterandy24/toronto-bike-share-sql)** · SQL
-On a typical weekday morning one Financial District station receives about 185 bikes but sends out only 3, and six of the ten busiest commute routes end there. The busiest 10% of stations carry 39% of all trips.
+On a summer weekday morning one Financial District station receives about 277 bikes but sends out only 4, and six of the ten busiest commute routes end there. The busiest 10% of stations carry 39% of all trips.
 `DuckDB` `CTEs` `window functions` `data cleaning` `rebalancing analysis`
 
 ### Tools
