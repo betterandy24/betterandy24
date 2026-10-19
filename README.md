@@ -25,3 +25,4 @@ Over 2019–2025, Bitcoin usually fell along with US stocks on bad days for the 
 ### Contact
 
 📧 dionsium.zheng@mail.utoronto.ca
+zhengxiang1002@gmail.com
